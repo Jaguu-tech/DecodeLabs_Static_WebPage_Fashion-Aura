@@ -8,7 +8,7 @@ https://jaguu-tech.github.io/Fashion-Aura/
 
 ## GitHub Repository
 
-https://github.com/Jaguu-tech/Fashion-Aura
+https://github.com/Jaguu-tech/DecodeLabs_Static_WebPage_Fashion-Aura.git
 
 
 ## Project Overview
