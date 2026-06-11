@@ -4,7 +4,7 @@ A responsive multi-page fashion store website built using HTML5 and CSS3. Fashio
 
 ## Live Website
 
-https://jaguu-tech.github.io/Fashion-Aura/
+https://jaguu-tech.github.io/DecodeLabs_Static_WebPage_Fashion-Aura/
 
 ## GitHub Repository
 
